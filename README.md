@@ -31,5 +31,6 @@ The dataset includes over 74,000 fire detection records captured by the VIIRS in
 ## How to Run This Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Fire_Incident_Analysis.git
+   git clone https://github.com/Chetnas8/Fire_Incident_Analysis.git
    cd Fire_Incident_Analysis
+
